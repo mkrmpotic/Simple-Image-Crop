@@ -5,7 +5,7 @@
  * http://marinkrmpotic.com
  *
  * ::version
- * 0.8.2 (04/26/2013)
+ * 0.8.4 (04/26/2013)
  * 
  * ::copyright
  * Copyright (C) 2013 Marin Krmpotic.
