@@ -33,6 +33,6 @@
 "docs": "https://github.com/mkrmpotic/Simple-Image-Crop",
 "download": "http://code.jquery.com/#color",
 "dependencies": {
-"jquery": ">=1.7.0"
+"jquery": ">=1.7"
 }
 }
