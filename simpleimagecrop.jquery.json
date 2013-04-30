@@ -2,14 +2,7 @@
 "name": "simpleimagecrop",
 "title": "Simple Image Crop",
 "description": "jQuery plugin for image cropping in combination with PHP backend.",
-"keywords": [
-"image",
-"crop",
-"cropping",
-"cropper",
-"picture",
-"resize"
-],
+"keywords": [ "image", "crop", "cropping", "cropper", "picture", "resize" ],
 "version": "0.8.3",
 "author": {
 "name": "Marin Krmpotić",
