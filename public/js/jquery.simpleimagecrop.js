@@ -95,8 +95,8 @@
 				
 				// INITIALIZE THE CROP BOX DIMENSIONS --------------------------------------------
 				var cropAspectRatio = o.newImageWidth / o.newImageHeight;
-				var initialCropBoxWidth = 300;
-				var initialCropBoxHeight = 300 / cropAspectRatio;
+				var initialCropBoxWidth = 400;
+				var initialCropBoxHeight = 400 / cropAspectRatio;
 				$(cropArea).css( "width", initialCropBoxWidth);
 				$(cropArea).css( "height", initialCropBoxHeight);
 				// -------------------------------------------------------------------------------
