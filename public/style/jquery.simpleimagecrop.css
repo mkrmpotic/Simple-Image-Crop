@@ -1,0 +1,108 @@
+/**
+ * Simple Image Crop
+ * http://marinkrmpotic.com
+ *
+ * ::version
+ * 0.8.2 (04/26/2013)
+ * 
+ * ::copyright
+ * Copyright (C) 2013 Marin Krmpotic.
+ *
+ * ::license
+ * Licensed under the MIT License.
+ */
+
+#crop_container {
+	margin: 0 auto;
+	position: relative;
+}
+
+#crop_box {
+	background: #fff;
+	opacity: 0.3;
+	left: 10px;
+	top: 10px;
+	position: absolute;
+	border: 1px dashed #186ab5;
+	z-index: 1000;
+	margin: 0;
+	padding: 0;
+}
+
+#crop_box:hover {
+	cursor: move;
+}
+
+#crop_message {
+	background-color: #DB2C2C;
+	color: #fff;
+	font-size: 9px;
+	text-transform: uppercase;
+	font-family: Arial, sans-serif;
+	padding: 3px 5px 3px 5px;
+	position: absolute;
+	white-space: nowrap;
+	visibility: hidden;
+	z-index: 1001;
+}
+
+#resize_icon {
+	position: absolute;
+	height: 16px;
+	width: 16px;
+	background: url('../img/resize_icon.png');
+	bottom: 0;
+	right: 0;
+	z-index: 1001;
+}
+
+#resize_icon:hover {
+	cursor: se-resize;
+}
+
+#crop_button {
+	padding: 6px;
+	text-align: center;
+	font-size: 18px;
+	font-family: Arial, sans-serif;
+	text-transform: uppercase;
+	background: #4E6A73;
+	color: #fff;
+}
+
+#crop_button:hover {
+	background: #507480;
+}
+
+#crop_button:active {
+	background: #475C63;
+}
+
+#image_to_crop {
+	display:block;
+}
+
+#crop_preview {
+	width: 400px;
+	height: 300px;
+	border: 1px solid #000;
+	overflow: hidden;
+	margin-top: 20px;
+}
+
+#preview_message {
+	opacity: 0.9;
+	background-color: #000;
+	color: #fff;
+	font-size: 9px;
+	text-transform: uppercase;
+	font-family: Arial, sans-serif;
+	padding: 3px 10px 3px 10px;
+	position: absolute;
+	white-space: nowrap;
+	z-index: 1001;
+}
+
+#crop_container.hidden, #crop_preview.hidden {
+	display: none;
+}
