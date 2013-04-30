@@ -1,0 +1,12 @@
+*** Simple Image Crop ***
+--------------------------
+CHANGELOG
+--------------------------
+
+v.0.8.2 (04/26/2013)
+- Added live crop preview
+- Enabled user to change the success and warning messages in script initialization
+- Upgraded the server-side script to resize the image without quality loss
+- Made all html elements to be shown by JavaScript so in case JavaScript is not enabled only the 'noscript' message will be displayed
+- Commented JavaScript code for easier further development
+
