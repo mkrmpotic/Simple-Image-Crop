@@ -3,7 +3,7 @@
 CHANGELOG
 --------------------------
 
-v.0.8.4 (04/26/2013)
+v.0.8.5 (04/26/2013)
 - Added live crop preview
 - Enabled user to change the success and warning messages in script initialization
 - Upgraded the server-side script to resize the image without quality loss
