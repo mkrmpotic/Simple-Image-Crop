@@ -8,7 +8,7 @@ Although cropping an image using PHP can be done with only a few lines of code, 
 
 Demo
 ----
-Visit a [Demo page](http://www.marinkrmpotic.com/simpleimagecrop).
+Visit a [Demo page](http://www.marinkrmpotic.com/simpleimagecrop). UPDATE: Sorry guys, forgot to renew the domain, will be back online in a few days :)
 
 Installation
 ------------
