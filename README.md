@@ -8,7 +8,7 @@ Although cropping an image using PHP can be done with only a few lines of code, 
 
 Demo
 ----
-Visit a [Demo page](http://www.marinkrmpotic.com/simpleimagecrop). UPDATE: Sorry guys, forgot to renew the domain, will be back online in a few days :)
+UPDATE: Sorry guys, I'm currently switching hosting providers. Will be back online in a few days :)
 
 Installation
 ------------
@@ -62,4 +62,4 @@ The Simple Image Crop plugin is licensed under the MIT License. See the [LICENSE
 
 Author
 ------
-Marin Krmpotić - me@marinkrmpotic.com - [Personal Website](http://www.marinkrmpotic.com) - [Facebook](http://facebook.com/krmpoticmarin)
+Marin Krmpotić - marin.krmpotic@gmail.com - [Facebook](http://facebook.com/krmpoticmarin)
